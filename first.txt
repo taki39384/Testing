@@ -1,7 +1,0 @@
-これはGitの練習用です。
-初めてのCursorでコミットします。
-
-Gitのコマンド
-・git status
-・git add.
-・git commit
